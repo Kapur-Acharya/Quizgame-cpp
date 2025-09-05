@@ -1,0 +1,120 @@
+What is the capital of France?
+a) Berlin
+b) Madrid
+c) Paris
+d) Rome
+c
+Which data type is used to store text in C++?
+a) int
+b) string
+c) float
+d) char
+b
+Which planet is known as the Red Planet?
+a) Venus
+b) Earth
+c) Mars
+d) Jupiter
+c
+Who is known as the father of computers?
+a) Charles Babbage
+b) Alan Turing
+c) Thomas Edison
+d) Bill Gates
+a
+What does HTML stand for?
+a) Hyperlinks and Text Markup Language
+b) Hyper Text Markup Language
+c) Home Tool Markup Language
+d) HighText Machine Language
+b
+Which symbol is used to denote a preprocessor directive in C++?
+a) %
+b) #
+c) $
+d) &
+b
+Which of the following is a loop structure in C++?
+a) repeat-until
+b) do-while
+c) next-until
+d) foreach
+b
+The extension of a C++ source code file is:
+a) .txt
+b) .exe
+c) .cpp
+d) .doc
+c
+Which operator is used for pointer dereferencing?
+a) *
+b) &
+c) ->
+d) %
+a
+What is the size of int in most modern systems?
+a) 2 bytes
+b) 4 bytes
+c) 8 bytes
+d) Depends on compiler
+b
+Which header file is required for input/output in C++?
+a) conio.h
+b) stdio.h
+c) iostream
+d) stdlib.h
+c
+Which company developed C++?
+a) Microsoft
+b) Apple
+c) Bell Labs
+d) IBM
+c
+Which keyword is used to declare a constant in C++?
+a) final
+b) const
+c) static
+d) define
+b
+Which of these is NOT a valid data type in C++?
+a) double
+b) boolean
+c) long
+d) float
+b
+Which function is the entry point of a C++ program?
+a) main()
+b) start()
+c) init()
+d) run()
+a
+Which operator is used to access members of a class through a pointer?
+a) .
+b) ::
+c) ->
+d) #
+c
+Which feature of OOP allows reusing existing code?
+a) Encapsulation
+b) Polymorphism
+c) Inheritance
+d) Abstraction
+c
+Which of the following is used to create an object in C++?
+a) function
+b) new
+c) malloc
+d) define
+b
+Which of these is NOT an access specifier in C++?
+a) private
+b) protected
+c) public
+d) internal
+d
+Which of these is a correct comment in C++?
+a) # This is comment
+b) // This is comment
+c) ** comment **
+d) \\ This is comment
+b
